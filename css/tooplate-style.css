@@ -183,8 +183,8 @@ b, strong {
   transform: translate(0, 0);
 }
 .navbar[class*="headroom--not-top"] {
-  background: #ffffff;
-  border-bottom: 1px solid #f0f0f0;
+  background: #dfdce7;
+  border-bottom: 1px solid #dfdce7;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -426,7 +426,7 @@ b, strong {
   position: relative;
 }
 .contact-form .form-control {
-  background: #B49C73;
+  background: #ffffff;
   border-radius: 2px;
   outline: none;
   box-shadow: none;
